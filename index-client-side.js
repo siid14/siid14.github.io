@@ -1,7 +1,5 @@
 console.log("Script loaded successfully!");
 
-
-
 function countClicks() {
   console.log("function countClicks!");
   var clicks = localStorage.getItem('clickCount');
